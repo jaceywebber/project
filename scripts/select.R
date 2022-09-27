@@ -1,8 +1,8 @@
 library(tidyverse)
 
-data <- read_csv("../data/surveys.csv")
+data <- read_csv("../data/butterfly_data.csv")
 
-select_data <- function(dataset = data){
+select_species <- function(dataset = data){
   new_data <- data %>% 
     select(ButterflySpecies, year, Springtemp)
     return(new_data)
