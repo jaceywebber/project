@@ -1,0 +1,11 @@
+Crabs Dataset Dictionary: 
+This dictionary will give a description for each column in the "Crabs.csv" dataset
+
+Color: indicates the color of the crab identified as either "blue" or "orange."
+Sex: indicates the sex of the crab as either "M" for male or "F" for female. 
+frontal_lobe: indicates the size of the crab's frontal lobe. 
+rear_width: indicates width of the crab's rear. 
+carapace_length: indicates length of the crab's carapace. 
+carapace_width: indicates width of the crab's carapace. 
+body_depth: indicates the depth the crab's body. 
+Latitude: indicates the latitude of where the crab was found. 
