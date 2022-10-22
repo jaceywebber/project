@@ -167,13 +167,14 @@ ggplot(data = data, aes(x = weight, y = species, color = species)) + geom_jitter
 1) Add and commit this document (5 pts)
 
 ```
-#Commands here
+#Git add
+Git commit
 ```
 
 2) Push your changes to github (10 pts)
 
 ```
-#Commands here
+#Git push
 ```
 
 
